@@ -1,0 +1,7 @@
+aside {
+    background-image: url('../assets/img/nubes-1.png');
+    background-repeat: no-repeat;
+    background-position: left bottom; /* Alinear a la izquierda en la parte inferior */
+    background-size: 40% 40%; /* Ancho 50%, alto 100% */
+  }
+  
